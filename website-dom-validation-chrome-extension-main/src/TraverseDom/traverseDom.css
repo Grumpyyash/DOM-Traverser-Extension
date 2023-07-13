@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container-div {
+  min-height: 95vh;
+}
+.header-div {
+  background-color: #004880;
+  color: white;
+  padding: 15px 50px 10px 50px;
+  display: flex;
+}
+.header-h1 {
+  font-size: 20px;
+}
+.header-icon {
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-top: 3px;
+}
+.main-container {
+  padding: 20px 50px 10px 50px;
+  margin-bottom: 30px;
+}
+.url-div {
+  display: flex;
+}
+.search-icon {
+  color: #004880;
+  font-size: 15px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.url-span {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+.page-description {
+  margin: 30px 0 20px 0;
+}
+.failed-instances {
+  display: flex;
+  margin: 30px 0 30px 0;
+}
+.cross-icon {
+  color: red;
+  font-size: 20px;
+  margin: 3px 10px 0 10px;
+}
+.accordion-heading {
+  margin-bottom: 20px;
+}
+.accordion-header-span {
+  padding-left: 40px;
+}
+.errors-map-element {
+  margin: 15px 0 15px 0;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 5px;
+}
+.location-div {
+  display: 'flex';
+  background-color: #004880;
+  color: white;
+  padding: 10px 10px 10px 20px;
+  border-top: 2px;
+  border-bottom: 2px;
+  border-radius: 5px;
+}
+.location-icon {
+  color: white;
+  margin-right: 30px;
+  font-size: 20px;
+}
+.mdn-doc-link {
+  color: white;
+}
+.mdn-doc-link:hover {
+  color: white;
+}
+.modal-button {
+  background-color: #004880;
+}
+.modal-button:hover {
+  background-color: #004880;
+}
+.show-path-anchor {
+  color: white;
+  margin-left: 30px;
+}
+.show-path-anchor:hover {
+  cursor: pointer;
+}
+.w3c-link {
+  color: #004880;
+}
+.w3c-link:hover {
+  color: #004880;
+}
+.footer-div {
+  background-color: #004880;
+  margin-top: auto;
+  padding: 15px 0 15px 0;
+  text-align: center;
+}
+.footer-para {
+  margin: auto;
+}
+.footer-anchor {
+  color: white;
+}
+.footer-anchor:hover {
+  cursor: pointer;
+}
+.footer-span {
+  color: white;
+}
+.external-div {
+  margin: 50px 0 20px 0;
+}
+.external-api-div {
+  margin: 30px 0 20px 0;
+}
+.w3c-anchor {
+  text-decoration: underline;
+  color: #004880;
+  cursor: pointer;
+}
+.external-h4 {
+  margin-bottom: 0;
+}
+.external-note-para {
+  font-size: 12px;
+  color: #004880;
+  margin-left: 30px;
+}
+.w3c-error-para {
+  color: #004880;
+  font-size: 12px;
+  margin-left: 20px;
+  padding: 10px 0;
+}
+.fixed-alert {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
+.w3c-errors-heading {
+  background-color: #004880;
+  padding: 10px 10px 5px 10px;
+  color: white;
+  border-radius: 5px;
+}

@@ -1,0 +1,40 @@
+.container-div {
+  min-height: 95vh;
+}
+.header-div {
+  background-color: #004880;
+  color: white;
+  padding: 15px 50px 10px 50px;
+  display: flex;
+}
+.header-h1 {
+  font-size: 20px;
+}
+.header-icon {
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-top: 3px;
+}
+.main-container {
+  padding: 80px 50px 10px 50px;
+  margin-bottom: 30px;
+}
+.form-description {
+  margin-bottom: 70px;
+}
+.form-submit-button {
+  background-color: #004880;
+}
+.footer-div {
+  background-color: #004880;
+  margin-top: auto;
+  padding: 15px 0 15px 0;
+  text-align: center;
+}
+.footer-para {
+  margin: auto;
+}
+.footer-span {
+  color: white;
+}

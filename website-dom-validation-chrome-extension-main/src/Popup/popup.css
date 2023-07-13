@@ -1,0 +1,180 @@
+body {
+  width: 400px;
+  max-height: 700px;
+}
+.main-container {
+  padding: 15px 20px 20px 20px;
+}
+.menu-icon {
+  position: fixed;
+  right: 20px;
+  top: 15px;
+}
+.fa-bars {
+  color: #508ffb;
+  font-size: 25px;
+}
+.fa-bars:hover {
+  cursor: pointer;
+}
+.popup-heading {
+  font-weight: 300;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+.popup-video {
+  text-decoration: none;
+  font-size: 0.7rem;
+  margin-top: 0;
+}
+.popup-quick {
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.popup-hr {
+  margin-top: 5px;
+}
+.semantic-anchor-tag {
+  color: #508ffb;
+  font-size: 0.7rem;
+  text-decoration: none;
+}
+.semantic-anchor-tag:hover {
+  color: #004880;
+  cursor: pointer;
+}
+.fa-rocket,
+.fa-flask {
+  color: #508ffb;
+  margin: 15px 20px 10px 0;
+  font-size: 30px;
+}
+.bi-list {
+  color: blue;
+}
+.popup-nav {
+  display: flex;
+  margin-top: 0;
+}
+.check-styles-nav {
+  margin-top: 0;
+}
+.check-styles-flex-div {
+  display: flex;
+}
+.checkbox-input {
+  margin-right: 5px;
+}
+.checkbox-label {
+  font-size: 0.7rem;
+}
+.compact-checkbox-label,
+.custom-checkbox-label {
+  margin-left: 26px;
+}
+.checkbox-or {
+  text-align: center;
+}
+.checkbox-or-p {
+  margin: auto;
+  font-size: 0.7rem;
+  padding-bottom: 3px;
+}
+.custom-density-row {
+  margin-top: 20px;
+}
+.check-styles-anchor {
+  color: #508ffb;
+  font-size: 0.7rem;
+  text-decoration: none;
+  padding-left: 5px;
+}
+.check-styles-anchor:hover {
+  color: #004880;
+  cursor: pointer;
+}
+.input-file-div {
+  display: flex;
+}
+.file-input {
+  font-size: 0.7rem;
+  max-width: 250px;
+  height: 30px;
+  border: none;
+  border-radius: 3px;
+}
+.file-submit-button {
+  font-size: 0.7rem;
+  max-width: 100px;
+  height: 25px;
+  background-color: #508ffb;
+  border: none;
+  border-radius: 3px;
+  color: white;
+}
+.traverse-dom-menu-title {
+  text-decoration: none;
+  font-size: 0.7rem;
+  margin-top: 0;
+}
+.traverse-dom-menu-title:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.traverse-dom-menu {
+  font-size: 0.7rem;
+}
+.popup-version {
+  color: grey;
+  font-size: 0.7rem;
+}
+.fa-circle-info {
+  font-size: 0.7rem;
+  margin-top: 5px;
+}
+.popup-issues {
+  text-decoration: none;
+}
+.popup-issues:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.alert {
+  margin-bottom: 10px;
+  height: 45px;
+  line-height: 45px;
+  padding: 0px 20px;
+  display: flex;
+}
+.alert-para {
+  font-size: 0.9rem;
+}
+.btn-close {
+  font-size: 0.7rem;
+  margin-bottom: 5px;
+  margin-top: 0;
+  padding-top: 0;
+}
+.check-density {
+  margin-top: 10px;
+}
+.check-density-div {
+  display: flex;
+}
+.density-submit-button {
+  margin-right: 15px;
+  margin-bottom: 10px;
+  font-size: 0.7rem;
+  max-width: 100px;
+  height: 25px;
+  background-color: #508ffb;
+  border: none;
+  border-radius: 3px;
+  color: white;
+}
+.check-density-button-div {
+  padding-bottom: 10px;
+}
+.density-button-column {
+  text-align: right;
+}
